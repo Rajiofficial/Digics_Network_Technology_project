@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { Link, NavLink } from "react-router-dom";
+import {AiOutlineDown} from "react-icons/ai"
 import "./Css/nav.css"
 import { GrCart} from "react-icons/gr";
 import Contain from './Nav_bitss/Contain';
@@ -44,14 +45,14 @@ const Nav = () => {
          <div> <Link className='Link' to="/">home</Link>         </div>  
          
          <div>  
-         <button onClick={toggleContent}>cyber bites security</button>
+         <button className='NAV_BTN_1' onClick={toggleContent}>cyber bites security <AiOutlineDown/></button>
                   {showContent && <Contain/>}
          
           </div> 
 
          <div>  <Link className='Link' to="/">free products</Link>    </div> 
 
-         <div>     <button onClick={toggleContent1}>About Us</button>
+         <div>     <button className='NAV_BTN_1' onClick={toggleContent1}>About Us < AiOutlineDown /></button>
                   {showContent1 && <div className='nav_box'><ul className='nav_ul'> 
                     <li><Link className='Link' to="/cookie">Cookie policy</Link> </li> 
                     <li><Link className='Link' to="/praivacy">privacy policy</Link> </li> 

@@ -3,6 +3,14 @@
     position: sticky;
 
 }
+
+.NAV_BTN_1{
+    border-style: none;
+    font-weight: 400;
+    font-size: 15px;
+    background-color:#F6F5F5;
+}
+
 .Link{
     text-decoration: none;
     color: black;

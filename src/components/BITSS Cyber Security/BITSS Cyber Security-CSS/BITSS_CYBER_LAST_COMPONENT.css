@@ -1,0 +1,35 @@
+.BITSS_CYBER_LAST_COMPONENT_left_h2{
+    font-family: "Arvo", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+.BITSS_CYBER_LAST_COMPONENT_container{
+    display:flex ;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 60px;
+}
+.BITSS_CYBER_LAST_COMPONENT_p_tag{
+    text-align: left;
+    width: 400px;
+    color: black;
+    font-weight: 500;
+
+}
+.emoji{
+    width: 12px;
+    color: black;
+    
+}
+.BITSS_CYBER_LAST_COMPONENT_imgs{
+    width: 350px;
+    margin-top: 70px;
+}
+.BITSS_CYBER_LAST_contact{
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+}
+.navi_bitss{
+    color: black;
+}

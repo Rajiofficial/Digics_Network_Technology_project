@@ -1,0 +1,187 @@
+
+
+.BITSS_Cyber_Security_CART_1{
+    padding: 60px 30px 40px 30px;
+    background-color: transparent;
+    background-image: linear-gradient(-35deg, white 0%, white 100%);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 20px 20px 40px 0px rgba(0,0,0,0.4);
+    height: 350px;
+}
+.BITSS_Cyber_Security_CART_1:hover{
+    background-image: linear-gradient(-35deg, #b18cfe 0%, #9460ff 100%);
+    
+    .BITSS_Cyber_Security-pricing-price_1:hover{
+  
+        background-color:white;
+     
+          
+    }
+}
+.BITSS_Cyber_Security_CART_2{
+    padding: 60px 30px 40px 30px;
+    background-color: transparent;
+    background-image: linear-gradient(-35deg, #b18cfe 0%, #9460ff 100%);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 20px 20px 40px 0px rgba(0,0,0,0.1);
+    box-shadow: 20px 20px 40px 0px rgba(0,0,0,0.4);
+    height: 330px;
+}
+.BITSS_Cyber_Security_CART_3{
+    padding: 60px 30px 40px 30px;
+    background-color: transparent;
+    background-image: linear-gradient(-35deg, white 0%, white 100%);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 20px 20px 40px 0px rgba(0,0,0,0.4);
+    box-shadow: 20px 20px 40px 0px rgba(0,0,0,0.4);
+    height: 350px;
+}
+
+.BITSS_Cyber_Security_CART_3:hover{
+    background-image: linear-gradient(-35deg, #b18cfe 0%, #9460ff 100%);
+
+}
+.BITSS_Cyber_Security_CART_P{
+
+}
+.Cyber_Security_bottom_p{
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.BITSS_Cyber_Security_CART_h4{
+    font-weight: 400;
+    
+}
+.BITSS_Cyber_Security_CART_con{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+.Cyber_Security_currency_1{
+    font-weight: 400;
+    font-size: xx-large;
+    padding-right: 20px;
+
+  
+}
+.Cyber_Security_currency_2{
+    font-weight: 400;
+    font-size: xx-large;
+    padding-right: 20px;
+}
+.Cyber_Security_currency_3{
+    font-weight: 400;
+    font-size: xx-large;
+    padding-right: 20px;
+}
+.Cyber_Security_pri_1{
+    font-weight: 600;
+    font-size: 50px;
+    color: white;
+    
+
+}
+.Cyber_Security_pri{
+    font-weight: 600;
+    font-size: 50px;
+
+    
+
+}
+.Cyber_Security_BUTTON_1{
+    color: #000000;
+    background-color: #ffffff;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #e7e7e7;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+}
+.Cyber_Security_BUTTON_2{
+    color:#ffffff ;
+    background-color: #000000 ;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #e7e7e7;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+.Cyber_Security_bottom_p{
+font-size: 15px;
+font-weight: 700;
+}
+.Cyber_Security_BUTTON_1_span{
+    font-weight: 700;
+    font-size: 16px;
+}
+.Cyber_Security_BUTTON_2_span{
+    font-weight: 700;
+    font-size: 16px;
+}
+.Cyber_Security_currency_1{
+    color: white;
+}
+
+.Cyber_Security_period{
+    font-weight: 700;
+    font-size: larger;
+    margin-left: 40px;
+
+}
+.Cyber_Security_period_1{
+    font-weight: 700;
+    font-size: larger;
+    margin-left: 40px;
+    color: white;
+
+}
+
+.BITSS_Cyber_Security-pricing-price_1{
+    
+    height: 20%;
+    width: calc(100% + 30px);
+    /* background-color:white; */
+    top: 0;
+    right: -30px;
+    border-radius: 48px 0 0 48px;
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+    /* margin-top: 100px; */
+    padding-top: 20px;
+      background-color: #A072FF;
+}
+
+
+
+.BITSS_Cyber_Security-pricing-price_2{
+    
+    height: 20%;
+    width: calc(100% + 30px);
+    background-color:white;
+    top: 0;
+    right: -30px;
+    border-radius: 48px 0 0 48px;
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+    /* margin-top: 100px; */
+    padding-top: 20px;
+      
+}
+.BITSS_Cyber_Security-pricing-price_3{
+    
+    height: 20%;
+    width: calc(100% + 30px);
+    background-color:white;
+    top: 0;
+    right: -30px;
+    border-radius: 48px 0 0 48px;
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+    /* margin-top: 100px; */
+    padding-top: 20px;
+      background-color: #A072FF;
+}

@@ -12,7 +12,7 @@ const Section1 = () => {
 
        <div className='wrapper'>
 <div className='con1_title'>
-<h1 className='con1_color_1'>Welkom to </h1>
+<h1 className='con1_color_1'>Welcome to </h1>
 <h1 className='con1_color_2'>BITSS.fr</h1>
        <div className='con1_color'>Jou betroubare kuberveiligheidsvennoot</div>
         <h7 className='con1_color1'>Kubersekuriteitsdienste</h7>
