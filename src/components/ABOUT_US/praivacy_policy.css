@@ -1,0 +1,40 @@
+.praivacy_para{
+  
+    color: black;
+    text-align: left;
+    line-height: 28px;
+    width: 920px;
+    
+    
+    }
+    .praivacy_tit{
+        text-align: left;
+    }
+   .praivacy_container{
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 300px;
+   }
+
+
+
+
+
+   
+@media (max-width: 768px) {
+
+
+.praivacy_para{
+    width: 300px;
+}
+
+    
+.praivacy_footer{
+    padding-right: 600px;
+}
+
+
+
+}

@@ -1,0 +1,165 @@
+.network_headline{
+    font-family: "Fjalla One", Sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+
+}
+.network_para_1{
+    text-align: center;
+    color: #343232;
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+.bitss_wd_top_1_data{
+    background-color: #BD214D;
+    transition:  border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+   text-align: left;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 30px 20px 40px 20px;
+    margin-left: 200px;
+    height: 400px;
+    width: 490px;
+    border-radius: 10px;
+    padding: 40px;
+    margin-top: 100px;
+    
+   
+}
+.elementor-widget-container_13 {
+    text-align: justify;
+    color:#000;
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: -0.3px;
+    padding-right: 10px;
+}
+
+.network_headline_2{
+    color: #FFFFFF;
+    font-family: "Metrophobic", Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 28px;
+}
+.bitss_v_verifies_btn_11{
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    margin-top: 90px;
+    border: none;
+    
+    
+    
+}
+.bitss_v_verifies_btn_11_wid{
+    padding-left: 40px;
+}
+.btn_contact_btn{
+    
+    font-size: 14px;
+    font-weight: 600;
+
+}
+.btn_contact_btn_1{
+    
+    font-size: 14px;
+    font-weight: 600;
+
+
+}
+
+
+
+
+
+.wd_img_con{
+    margin-left: 80px;
+}
+
+.bitss_v_verifies_wd_img_1{
+    width: 260px;
+    height: 250px;
+    margin-left: 70px;
+    border-radius: 20px;
+  
+}
+.network_con_1{
+    display: flex;
+}
+.bitss_wd_top_1data_con{
+    display: flex;
+    margin-right: 200px;
+}
+
+.bitss_v_verifies_heading-title{
+    font-family: "Fjalla One", Sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.bitss_wd_par{
+    color: #000;
+}
+.bitss_wd_p_tag{
+    width: 300px;
+    margin-left: 30px;
+    color: #000;
+}
+
+.bitss_wd_paras_4{
+    text-align: justify;
+    color: black;
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 29px;
+}
+.wd_img_4{
+    height: 500px;
+    width: 250px;
+}
+.lin{
+    color: #000;
+}
+.bitss_v_verifies_2_data{
+    text-align: left;
+    color:black;
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    background-color: #F3F3F3;
+    
+    
+    letter-spacing: -0.6px;
+    /* width: 250px; */
+    margin-top: 100px;
+    
+}
+.contain_bits_wd{
+    margin-top: 70px;
+}
+
+.bitss_wd_top_3_data{
+height: 400px;
+margin-top: 100px;
+}
+
+
+.bitss_wd_pp{
+    text-align: left;
+    color:black; 
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: -0.6px;
+    margin-left: 30px;
+}

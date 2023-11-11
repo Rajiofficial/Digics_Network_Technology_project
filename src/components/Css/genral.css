@@ -1,0 +1,123 @@
+
+  .containers {
+    margin-left: 400px;
+    text-align: left;
+    display: flex;
+    width: 700px;
+    flex-direction: column;
+   
+  }
+ 
+  .header {
+    font-size: 36px;
+    line-height: 1.5;
+    text-align: center;
+   
+    margin-top: 5rem;
+  }
+  .txt {
+    text-align: center;
+    opacity: 50%;
+    font-size: 14px;
+    
+  }
+  .intro {
+    font-size: 36px;
+  }
+  a{
+    text-decoration: none;
+    color: blue;
+
+  
+  }
+  a:hover{
+    color: rgb(66, 66, 238);
+  }
+  h4 {
+    font-size: 30px;
+  }
+  p {
+    font-size: 14px;
+    font-weight: 400;
+    opacity: 60%;
+    line-height: 2;
+  }
+  .pdd{
+    font-size: 14px;
+    font-weight: 400;
+    color:  #000080;
+  
+    line-height: 2;
+    padding: 0.3rem 0;
+  }
+  h2 span{
+    font-family: "Poppins";
+      font-weight: 700;
+      font-size: 38px;
+      text-transform: none;
+      line-height: 1.5;
+      color: #000080;
+  }
+  .border span{
+    background-color: rgba(0, 0, 0, 0.01);
+      border: 1px solid rgba(3, 3, 3, 0.1);
+      line-height: 24px;
+      margin-bottom: 1.6em;
+      max-width: 100%;
+      overflow: auto;
+      padding: 0.8em;
+      white-space: pre;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      font-family: Inconsolata, monospace;
+      opacity: 70%;
+  }
+
+
+
+
+
+@media (max-width: 768px) {
+  /* Apply styles for screens with a maximum width of 768px (typical tablets) */
+  .container {
+  
+  }
+  .header {
+    font-size: 24px;
+    margin-top: 2rem;
+    width: 180px;
+  }
+  .txt {
+    font-size: 7px;
+    margin-right: 500px;
+    
+    
+  }
+  .intro {
+    font-size: 24px;
+  }
+  h4 {
+    font-size: 20px;
+    width: 200px;
+  }
+  p {
+    font-size: 12px;
+    width: 190px;
+  }
+  .pdd{
+
+    width: 260px;
+  }
+  .p {
+    font-size: 12px;
+  }
+  h2 span {
+    font-size: 28px;
+    line-height: 1.2;
+  }
+  .border span {
+    line-height: 18px;
+    margin-bottom: 1.2em;
+    padding: 0.6em;
+  }
+}

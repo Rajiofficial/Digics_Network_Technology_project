@@ -1,0 +1,177 @@
+.network_headline{
+    font-family: "Fjalla One", Sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+
+}
+.network_para_1{
+    text-align: center;
+    color: #343232;
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+.bitss_wd_top_1_data_top{
+    background-color: #815FB4;
+    transition:  border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+   text-align: left;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 30px 20px 40px 20px;
+    margin-left: 200px;
+    height: 440px;
+    width: 550px;
+    border-radius: 10px;
+    padding: 40px;
+    margin-top: 100px;
+    
+   
+}
+
+.network_headline_2{
+    color: #FFFFFF;
+    font-family: "Metrophobic", Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 28px;
+}
+.bitss_wd_btn_11{
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    margin-top: 70px;
+    border: none;
+    
+}
+
+.wd_img_con{
+    margin-left: 80px;
+}
+
+.bitss_wd_img_1{
+    width: 280px;
+    height: 200px;
+    margin-left: 40px;
+    border-radius: 20px;
+}
+.network_con_1{
+    display: flex;
+}
+.network_1data_con{
+    display: flex;
+    margin-right: 200px;
+}
+
+.bitss_wd_heading-title{
+    font-family: "Fjalla One", Sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: left;
+    margin-left: 30px;
+}
+.bitss_wd_par{
+    color: #000;
+}
+.bitss_wd_p_tag{
+    width: 300px;
+    margin-left: 30px;
+    color: #000;
+}
+
+.bitss_wd_paras_4{
+    text-align: justify;
+    color: black;
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 29px;
+}
+.wd_img_4{
+    height: 500px;
+    width: 250px;
+}
+.lin{
+    color: #000;
+}
+.bitss_wd_top_2_data{
+    text-align: left;
+    color:black;
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    /* line-height: 20px; */
+    background-color: #F3F3F3;
+    
+    letter-spacing: -0.6px;
+    /* width: 250px; */
+    margin-top: 100px;
+    
+    
+}
+.contain_bits_wd{
+    margin-top: 70px;
+}
+
+.bitss_wd_top_3_data{
+height: 400px;
+margin-top: 100px;
+}
+
+
+.bitss_wd_pp{
+    text-align: left;
+    color:black; 
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: -0.6px;
+    margin-left: 30px;
+}
+
+
+@media (max-width: 768px){
+    
+
+
+
+.network_1data_con{
+    display: flex;
+    flex-direction: column;
+}
+
+.bitss_wd_top_1_data_top{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin-left: 0px;
+    height: 670px;
+
+}
+
+.bitss_wd_top_2_data{
+    background-color:#F3F3F3 ;
+    padding-right: 300px;
+}
+
+  
+
+    .bitss_wd_img_1{
+        margin-top: 190px;
+        margin-left: -150px;
+        width: 200px;
+    }
+
+    .wd_img_4{
+        padding-left: 50px;
+    }
+
+
+
+
+
+
+
+}

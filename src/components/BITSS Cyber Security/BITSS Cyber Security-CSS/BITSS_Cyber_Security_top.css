@@ -1,0 +1,21 @@
+.BITSS_CYBER_TOP_CONTAINER{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+.BITSS_CYBER_LEFT_DATA_H2{
+    color: #3354FF;
+    margin-right: 230px;
+}
+.BITSS_CYBER_LEFT_DATA_P{
+    font-size: 18px;
+    line-height: 22px;
+    margin: 0px 0px 35px 0px;
+    color: black;
+    width: 600px;
+    line-height: 30px;
+    text-align: left;
+}
+.BITSS_CYBER_RIGHT_DATA_IMG{
+    width: 500px;
+}

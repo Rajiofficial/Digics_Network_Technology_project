@@ -1,0 +1,50 @@
+.sec_4_head{
+
+    color: #6a56a6;
+    margin: 0px 0px 40px 0px;
+    font-family: "Poppins", Sans-serif;
+    font-size: 36px;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+.section_4_hed{
+    margin-top: 100px;
+}
+.bb{
+
+
+}
+.sec_4_logo{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 150px;
+   
+
+}
+.sec_4_text{
+    color: #716c80;
+    font-family: "Roboto", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    width: 200px;
+    text-align:left ;
+    padding-left: 40px;
+
+    
+}
+
+
+
+@media (max-width: 768px) {
+
+  .sec_4_logo{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+  }
+  .sec_4_text{
+  padding-right: 100px;
+  margin-left: -40px;
+  }
+        }

@@ -1,0 +1,152 @@
+.sec_7_txt1{
+    color: #5f5f5f;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    width: 400px;
+    margin-left: 250px;
+    text-align: left;
+    padding-left: 30px;
+}
+
+.sec_7_container{
+    margin-top: 200px;
+}
+
+.sec_7_pp{
+    margin-top: 80px;
+}
+
+.sec_7_h2{
+    color: #333333;
+    margin-left: 180px;
+    font-family: "Muli", Sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+   
+}
+.sec_7_h3{
+    color: #1bd1ea;
+    font-family: "Muli", Sans-serif;
+    font-size: 13px;
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 25px;
+    padding-top: 50px;
+    
+}
+.sec_7_h3_1{
+    color: #333333;
+    font-family: "Muli", Sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 25px;
+    margin-right:  100px;
+}
+.sec_7_h3_2{
+    color: #333333;
+    font-family: "Muli", Sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 25px;
+    margin-right: 110px;
+}
+.sec_7_container{
+    display: flex;
+}
+.sec_7_img_1{
+   object-fit: cover;
+   position: relative;
+   width: 600px;
+   height: 600px;
+    
+}
+.sec_7_btn{
+    padding: 20px 43px 23px 43px;
+    font-family: "Muli", Sans-serif;
+    font-size: 17px;
+    text-transform: capitalize;
+    background-color: #1bd1ea;
+    border-style: none;
+    border-radius: 0px 0px 0px 0px;
+    margin-top: 50px;
+    margin-left: 420px;
+}
+
+.sec_7_img_2{
+    
+    position:absolute;
+    width: 300px;
+    margin-top: 190px;
+    right: 440px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.sec_7_hj{
+    position:relative;
+    display: flex;
+    flex-direction: column;
+    margin-left: 270px;
+    margin-top: 40px;
+}
+.sec_7_para1{
+    width: 300px;
+    color: #5f5f5f;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    
+
+}
+.sec_7_logo_con_up{
+    display: flex;
+    flex-direction: row;
+    margin-left: 260px;
+
+}
+.sec_7_logo_con_down{
+    display: flex;
+    flex-direction: row;
+    margin-left: 260px;
+}
+
+
+
+@media (max-width: 768px) {
+
+
+
+.sec_7_container{
+    margin-left: -250px;
+}
+.sec_7_h3{
+    margin-left: 200px;
+}
+.sec_7_h2{
+font-size: 20px;
+}
+.sec_7_txt1{
+    width: 260px;
+}
+.sec_7_para1{
+    width: 260px;
+}
+.sec_7_btn{
+    margin-left: 600px;
+}
+.sec_7_btn_con{
+    margin-left: -2100px;
+    margin-top: 200px;
+}
+
+
+}
+
+
+
+
+

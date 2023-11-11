@@ -1,0 +1,111 @@
+.bitss_s_server_database_headline{
+    padding-top: 40px;
+}
+.network_para_1{
+    text-align: center;
+    color: black;
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+.bitss_s_server_database1_data{
+    background-color: #E78331;
+    transition:  border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+   text-align: left;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 30px 20px 40px 20px;
+    margin-left: 200px;
+    
+    width: 480px;
+    border-radius: 10px;
+    padding: 40px;
+    height: 480px;
+    
+   
+}
+.bitss_s_server_database_img_0{
+    margin-left: 40px;
+}
+
+.bitss_s_server_database_headline_2{
+    color: #FFFFFF;
+    font-family: "Metrophobic", Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 28px;
+    width: 400px;
+    margin-left: 30px;
+}
+.bitss_s_server_database_btn_11{
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    margin-top: 130px;
+    margin-left: 50px;
+    
+    
+    
+}
+.bitss_s_server_database_img_1{
+    width: 250px;
+    height: 250px;
+    margin-left: 90px;
+    margin-top: 40px;
+}
+.network_con_1{
+    display: flex;
+}
+.bitss_s_server_database_1data_con{
+    display: flex;
+    margin-right: 200px;
+    margin-top: 60px;
+}
+
+.bitss_s_heading-title{
+    font-family: "Fjalla One", Sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: left;
+    margin-left: 30px;
+}
+.network_paras_4{
+    text-align: justify;
+    color: #343232;
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 29px;
+}
+.bits_s_img_4{
+    height: 600px;
+    width: 250px;
+}
+.bitss_s_2_data{
+    text-align: left;
+    color:black;
+    
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: -0.6px;
+    width: 300px;
+    background-color: #F3F3F3;
+    border-radius: 20px;
+    height: 560px;
+}
+.bitss_s_pp{
+    text-align: left;
+    color:black; 
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: -0.6px;
+    margin-left: 30px;
+}
+.bits_s_img_0{
+    width: 130px;
+    margin-left: 50px;
+}

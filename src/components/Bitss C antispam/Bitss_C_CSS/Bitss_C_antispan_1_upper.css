@@ -1,0 +1,139 @@
+.network_headline{
+    font-family: "Fjalla One", Sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+
+}
+.network_para_1{
+    text-align: center;
+    color: #343232;
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+.network_1_data{
+    background-color: #9C55E4E3;
+    transition:  border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+   text-align: left;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 30px 20px 40px 20px;
+    margin-left: 200px;
+    
+    width: 450px;
+    border-radius: 10px;
+    padding: 40px;
+   
+}
+
+.network_headline_2{
+    color: #FFFFFF;
+    font-family: "Metrophobic", Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 28px;
+}
+.network_btn_11{
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    margin-top: 70px;
+    border: none;
+    
+}
+.network_img_1{
+    width: 300px;
+    height: 300px;
+}
+.network_con_1{
+    display: flex;
+}
+.network_1data_con{
+    display: flex;
+    margin-right: 200px;
+}
+
+.network_heading-title{
+    font-family: "Fjalla One", Sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: left;
+}
+.network_paras_4{
+    text-align: justify;
+    color: #343232;
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 29px;
+}
+.network_img_4{
+    height: 600px;
+    width: 250px;
+}
+.network_2_data{
+    text-align: left;
+    color: #343232;
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: -0.6px;
+    width: 250px;
+    height: 600px;
+}
+.bits_pp{
+    text-align: left;
+    color: #343232; 
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: -0.6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 768px){
+
+
+.network_1_data{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin-left: 0px;
+    height: 670px;
+
+
+    .network_img_1{
+        margin-top: 100px;
+        margin-left: -200px;
+    }
+}
+
+
+.network_headline{
+    margin-left: 39px;
+}
+.network_para_1{
+    margin-left: 69px;
+}
+.network_2_data{
+    margin-left: 50px;
+}
+
+
+}

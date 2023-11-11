@@ -1,0 +1,53 @@
+.section-8_contain1{
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #DAE6FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 200px;
+    margin-top: 150px;
+   
+
+}
+.sec_8_dec{
+    color: #353535;
+    font-family: "Roboto", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    word-spacing: 0px;
+    line-height: 30px;
+}
+.sec_8_dec_con1{
+    margin-top: 40px;
+    margin-bottom: 50px;
+ 
+}
+.sec_8_dec_con2{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+
+
+@media (max-width: 768px) {
+    
+
+
+.section-8_contain1{
+display: flex;
+flex-direction: column;
+}
+.sec_8_dec_con2{
+    margin-top: -240px;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+}

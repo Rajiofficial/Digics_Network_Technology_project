@@ -1,0 +1,47 @@
+.cookie_para{
+  
+color:black;
+text-align: left;
+line-height: 28px;
+width: 740px;
+
+
+}
+.cookie_tit{
+    text-align: left;
+}
+.cookie_container{
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 400px;
+  
+}
+
+.cookie_ul{
+    line-height: 28px;
+    color: #8F9BAC;
+}
+
+
+
+
+@media (max-width: 768px) {
+
+
+.cookie_para{
+    width: 300px;
+}
+
+
+.cookie_ul{
+    width: 300px;
+}
+
+.cookie_footer{
+    padding-right: 600px;
+}
+
+
+}

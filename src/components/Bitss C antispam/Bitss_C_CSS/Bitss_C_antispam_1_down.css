@@ -1,0 +1,355 @@
+.bits_c_down_contain {
+    /* background-image: url(https://bitss.fr/wp-content/uploads/2023/07/snow-desktop-backgrounds-background-image-7634083.jpg); */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    transition:border-radius 0.3s, opacity 0.3s;
+    display: flex;
+    justify-content: center;
+    width: 1040px;
+    margin-left: 200px;
+    border-radius: 30px;
+    margin-top: 60px;
+}
+.bits_c_down_contain{
+    display: flex;
+}
+.bits_left_contain_data{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.bits_center_contain_data{
+    display: flex;
+    flex-direction: column;
+
+}
+.bits_right_contain_data{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+.bits_center_data_1{
+    margin: 0px 70px 0px 70px;
+    padding: 10px 30px 20px 30px;
+    background-color: transparent;
+    background-image: linear-gradient(-35deg, #b18cfe 0%, #9460ff 100%);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 20px 20px 40px 0px rgba(0,0,0,0.1);
+height: 750px;
+width: 400px;
+
+}
+.elementskit-pricing-title {
+    color: #ffffff;
+    padding: 0px 0px 0px 0px;
+    font-weight: bold;
+    font-size: x-large;
+}
+.bits_center_data_2{
+   height: 100px;
+ 
+}
+.elementskit-pricing-price {
+  
+    height: 100%;
+    width: calc(100% + 30px);
+    background-color:white;
+    top: 0;
+    right: -30px;
+    border-radius: 48px 0 0 48px;
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+    margin-top: 100px;
+    padding-top: 20px;
+}
+.currency{
+    font-weight: 400;
+    font-size: xx-large;
+    padding-right: 20px;
+}
+.pri{
+    font-weight: 600;
+    font-size: 50px;
+    
+
+}
+.period{
+    font-weight: 700;
+    font-size: larger;
+    margin-left: 40px;
+
+}
+.bit_c_logos_last_img{
+width: 130px;
+}
+.bit_c_logos_left_1{
+    width: 130px;
+}
+
+.bit_c_logos_cen{
+    width: 150px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+.bitss_li{
+    list-style: none;
+    margin-bottom: 20px;
+    color: white;
+    letter-spacing: 2px;
+   
+}
+.bitss_i_tag{
+    font-size: 14px;
+    font-weight: 500;
+
+    margin-left: 10px;
+   
+}
+.bits_c_btn_11{
+    height: 50px;
+width: 300px;
+    border-radius: 5px;
+    border-style: none;
+    align-items: center;
+    align-content: center;
+}
+.bits_c_a_tag{
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    
+}
+
+
+.bits_c_btn_12{
+   
+    border-radius: 5px 5px 5px 5px;
+    display: inline-block;
+    line-height: 1;
+    
+    font-size: 15px;
+    padding: 12px 24px;
+    border-radius: 3px;
+  
+    text-align: center;
+    transition: all .3s;
+    height: 50px;
+    border-style: none;
+    margin-top: 40px;
+}
+.bits_c_btn_12:hover{
+    fill: #393939;
+    background-color: #69727d;
+    /* background-color: #FFFFFF; */
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+ 
+}
+
+
+
+.bits_cart{
+    background-color: #1346af;
+    color: #ffffff;
+    border-radius: 50px;
+    border-style: none;
+    width: 100px;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.elementor-widget-container_4{
+    margin: 0px 0px 0px 0px;
+    padding: 10px 0px 10px 0px;
+    text-align: left;
+    margin-left: 80px;
+  
+}
+.bits_center_para_last_content{
+    text-align: justify;
+    color: black;
+    font-family: "Roboto", Sans-serif;
+    font-size: 13px;
+    font-weight: 4;
+    width: 400px;
+}
+.bits_center_para_last_content_1{
+    text-align: justify;
+    color: black;
+    font-family: "Roboto", Sans-serif;
+    font-size: 13px;
+    font-weight: 4;
+    width: 400px;
+    margin-left: 80px;
+}
+
+.elementor-image-box-title_1 {
+    color: #353030;
+    font-family: "Chivo Mono", Sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+}
+
+
+ .elementor-image-box-description {
+    color: #201F1F;
+    font-family: "Metrophobic", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: -0.6px;
+
+ }
+ .elementor-image-box-description_1 {
+    color: #201F1F;
+    font-family: "Metrophobic", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: -0.6px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.elementor-image-box-title {
+    color: #353030;
+    font-family: "Chivo Mono", Sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+}
+ .elementor-image-box-description {
+    color: #201F1F;
+    font-family: "Metrophobic", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: -0.6px;
+    text-align: left;
+    margin-right: 20px;
+}
+.bitss_contact_btn{
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border-style: none;
+}
+.bitss_spn{
+    color: white;
+}
+.bitss_contact_btn_container_1{
+    padding-bottom: 40px;
+   
+}
+.bitss_foo{
+    margin-top: -30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------media query===================== */
+
+
+
+@media (max-width: 768px) {
+
+
+.bits_c_down_contain{
+    display: flex;
+    flex-direction: column;
+    margin-left: -10px;
+}
+    .bit_c_logos_left_1{
+        margin-left: -840px;
+    }
+    .bit_c_logos_last_img{
+        margin-left: -650px;
+    }
+    .elementor-image-box-title{
+        margin-left: -650px;
+    }
+    .elementor-image-box-title_1{
+        margin-right: 250px;
+    }
+
+
+   .bit_c_logos_cen{
+    margin-left: -750px;
+   }
+
+   .bits_center_data_2{
+margin-left: -30px;
+   }
+
+
+.bits_center_contain_data{
+    margin-left: -50px;
+    
+    
+}
+
+.bits_cart{
+    margin-left: -680px;
+}
+.bits_c_btn_12{
+    margin-left: -600px;
+}
+
+.bits_center_para_last{
+    margin-left: 60px;
+    
+}
+
+.elementor-widget-container_4{
+   margin-left: -1px;
+   margin-left: 50px;
+
+}
+.bitss_contact_btn{
+    margin-left: -700px;
+    margin-top: 50px;
+}
+.bits_right_contain_data{
+    margin-left: 90px;
+}
+.elementor-image-box-description{
+    margin-left: 220px;
+}
+.bits_center_para_last_content{
+width: 200px;
+margin-left: 0px;
+}
+.bits_center_para_last_content_1{
+    width: 200px;
+margin-left: 70px;
+}
+
+    
+}
